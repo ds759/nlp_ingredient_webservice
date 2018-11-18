@@ -1,0 +1,52 @@
+[
+    {
+        "comment": "new halved if large", 
+        "name": "potato", 
+        "qty": "400g", 
+        "other": ",", 
+        "input": "400g new potato, halved if large", 
+        "display": "<span class='qty'>400g</span><span class='comment'>new</span><span class='name'>potato</span><span class='other'>,</span><span class='comment'>halved if large</span>"
+    }, 
+    {
+        "input": "2 tbsp olive oil", 
+        "display": "<span class='qty'>2</span><span class='unit'>tbsp</span><span class='name'>olive oil</span>", 
+        "name": "olive oil", 
+        "unit": "tbsp", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "trimmed and halved", 
+        "name": "asparagus spears", 
+        "qty": "8", 
+        "other": ",", 
+        "input": "8 asparagus spears, trimmed and halved", 
+        "display": "<span class='qty'>8</span><span class='name'>asparagus spears</span><span class='other'>,</span><span class='comment'>trimmed and halved</span>"
+    }, 
+    {
+        "input": "2 handfuls cherry tomatoes", 
+        "display": "<span class='qty'>2</span><span class='unit'>handfuls</span><span class='name'>cherry tomatoes</span>", 
+        "name": "cherry tomatoes", 
+        "unit": "handfuls", 
+        "qty": "2"
+    }, 
+    {
+        "input": "1 tbsp balsamic vinegar", 
+        "display": "<span class='qty'>1</span><span class='unit'>tbsp</span><span class='name'>balsamic vinegar</span>", 
+        "name": "balsamic vinegar", 
+        "unit": "tbsp", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "fillets, about 140g/5oz each", 
+        "input": "2 salmon fillets, about 140g/5oz each", 
+        "display": "<span class='qty'>2</span><span class='name'>salmon</span><span class='comment'>fillets , about 140g/5oz each</span>", 
+        "name": "salmon", 
+        "qty": "2"
+    }, 
+    {
+        "input": "handful basil leaves", 
+        "display": "<span class='qty'>handful</span><span class='name'>basil leaves</span>", 
+        "name": "basil leaves", 
+        "qty": "handful"
+    }
+]
